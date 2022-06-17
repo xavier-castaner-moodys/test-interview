@@ -4,7 +4,10 @@
   "description": "",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:1": "jest src/exercise-1/index.test.js",
+    "test:2": "jest src/exercise-2/index.test.js",
+    "test:3": "jest src/exercise-3/index.test.js"
   },
   "repository": {
     "type": "git",
