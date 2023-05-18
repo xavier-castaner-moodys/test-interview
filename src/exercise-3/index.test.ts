@@ -1,4 +1,4 @@
-const removeDuplicatesAdvanced = require("./index");
+import removeDuplicatesAdvanced from "./index";
 
 test("Should return an array without duplicates", () => {
   const arr = [
