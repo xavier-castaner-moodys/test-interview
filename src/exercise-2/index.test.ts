@@ -1,4 +1,4 @@
-const convertArrToObject = require("./index");
+import convertArrToObject from "./index";
 
 test("Should convert an array to a object", () => {
   const arr = [
